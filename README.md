@@ -1,1 +1,1 @@
-Проект по Django для SkillFactory
+ dj
